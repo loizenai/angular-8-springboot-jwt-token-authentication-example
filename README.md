@@ -81,6 +81,6 @@ https://youtu.be/7ZfInOvFsz0
 
 ## Related posts:
 
-![Reactjs JWT Authentication Example](https://loizenai.com/reactjs-jwt-authentication-example/)
-![Angular CRUD Application with SpringBoot and MySQL/PostgreSQL RestAPIs – Fullstack Angular 8-9-10 HttpClient Post/Get/Put/Delete](https://loizenai.com/angular-crud-application-with-springboot-and-mysql-postgresql-restapis-fullstack-angular-httpclient-post-get-put-delete/)
-![Build SpringBoot CRUD Application – FullStack: Frontend (Bootstrap and Ajax) to Backend (SpringBoot and MySQL/PostgreSQL database)](https://loizenai.com/build-springboot-crud-application-fullstack-frontend-bootstrap-and-ajax-to-backend-springboot-and-mysql-postgresql-database/)
+[Reactjs JWT Authentication Example](https://loizenai.com/reactjs-jwt-authentication-example/)
+[Angular CRUD Application with SpringBoot and MySQL/PostgreSQL RestAPIs – Fullstack Angular 8-9-10 HttpClient Post/Get/Put/Delete](https://loizenai.com/angular-crud-application-with-springboot-and-mysql-postgresql-restapis-fullstack-angular-httpclient-post-get-put-delete/)
+[Build SpringBoot CRUD Application – FullStack: Frontend (Bootstrap and Ajax) to Backend (SpringBoot and MySQL/PostgreSQL database)](https://loizenai.com/build-springboot-crud-application-fullstack-frontend-bootstrap-and-ajax-to-backend-springboot-and-mysql-postgresql-database/)
